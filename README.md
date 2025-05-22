@@ -8,6 +8,7 @@ Fictional Car Model (IRL Car Model)
 Similar mods existed in the past (e.g. https://steamcommunity.com/sharedfiles/filedetails/?id=1095963518), but are hosted on weird file sharing sites, so this one will hopefully stay "alive" longer.
 
 How to install:
-Just replace the "name.txt" files in the corresponding directories of the game (the complete path of the sub-directories inside the default game directory is preserved).
+
+Just replace all (or just some, if you want) the "name.txt" files in the corresponding sub-directories of the game (the complete path of the sub-directories inside the default game directory is preserved in this repository for your convenience and usability).
 
 I hope you enjoy.
